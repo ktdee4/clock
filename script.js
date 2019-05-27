@@ -24,7 +24,7 @@ var updateClock = function()
 		messageText = "IZ TIME TO GETTUP.";
 	} else if (time == napTime) {
 		image = "https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/09/cat3.jpg";
-		messageText = "IZ NAP TIME…";
+		messageText = "IZ NAP TIME";
 	} else if (time == lunchTime) {
 		image = "https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/09/cat2.jpg";
 		messageText = "IZ NOM NOM NOM TIME!!";
